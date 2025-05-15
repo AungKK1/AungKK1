@@ -9,19 +9,19 @@ I'm passionate about designing reliable, manufacturable, and high-performance ha
 ## 📁 Featured Projects
 
 ### 1. Arduino-Compatible Minimal Board
-[🔗 View on GitHub](https://github.com/AungKK1/arduino-minimal-board)
+[🔗 View on GitHub](https://github.com/AungKK1/Minimal-Arduino-Board)
 
 ### 2. Mixed-Signal PCB Project
-[🔗 View on GitHub](https://github.com/AungKK1/mixed-signal-board)
+[🔗 View on GitHub](https://github.com/AungKK1/Mixed-Signal-Board)
 
 ### 3. USB 3.1 Gen 2 Conversion Board
-[🔗 View on GitHub](https://github.com/AungKK1/usb3.1-mux)
+[🔗 View on GitHub](https://github.com/AungKK1/Usb-Type-A-to-C-Board)
 
 ### 4. Buck-Boost Battery Charger with MPPT
-[🔗 View on GitHub](https://github.com/AungKK1/mppt-buck-boost-charger)
+[🔗 View on GitHub](https://github.com/AungKK1/Buck-Boost-mppt-battery-charger)
 
 ### 5. STM32 Mixed-Signal Board
-[🔗 View on GitHub](https://github.com/AungKK1/stm32-mixed-signal)
+[🔗 View on GitHub](https://github.com/AungKK1/STM32-mixed-signal-board)
 
 ---
 
